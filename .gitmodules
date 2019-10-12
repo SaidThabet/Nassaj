@@ -1,0 +1,4 @@
+[submodule "SaidThabet/hr_attendence"]
+	path = SaidThabet/hr_attendence
+	url = git@github.com:SaidThabet/hr_attendence.git
+	branch = master
