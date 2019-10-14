@@ -1,0 +1,4 @@
+[submodule "fahdhus/hr_zk_attendance"]
+	path = fahdhus/hr_zk_attendance
+	url = git@github.com:fahdhus/hr_zk_attendance.git
+	branch = master
