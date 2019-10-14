@@ -2,3 +2,8 @@
 	path = SaidThabet/hr_attendence
 	url = git@github.com:SaidThabet/hr_attendence.git
 	branch = master
+
+[submodule "fahdhus/hr_zk_attend"]
+	path = fahdhus/hr_zk_attend
+	url = git@github.com:fahdhus/hr_zk_attend.git
+	branch = master
